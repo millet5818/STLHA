@@ -1,0 +1,15 @@
+>> version 1.0 2020-12-24
+	1. 完成算法主体框架
+	2. 实现float二维数组类型的3个算法模块
+	3. 添加测试代码(FSModelTest文件) Test1-1 Test2-1 Test2-1
+
+>> version 1.1 2020-12-29
+	1. 添加GDAL的java版的栅格处理库
+	2. 实现GDAL的java版的float二维数组到geotiff的相互转换功能
+	3. 实现2个算法的常数版本重载
+	4. 添加3个测试代码 Test1-2 Test2-2 Test2-3
+
+>> version 1.1.1 2021-1-1
+	1. 添加 UpdateNotes.txt
+	2. 添加两个函数中noValue处理方法(输入noValue,直接返回noValue)
+		函数：calculateFactorOfSlopeStability 及 calculateSaturationFactor
